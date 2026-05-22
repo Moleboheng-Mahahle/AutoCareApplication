@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="autocare_deep_purple">#1A0B2E</color>
+    <color name="autocare_vibrant_red">#E62E2D</color>
+    <color name="autocare_bright_yellow">#FFC107</color>
+    <color name="autocare_light_blue_bg">#B5CAF0</color>
+    <color name="autocare_silver">#B0BEC5</color>
+</resources>
